@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 122"
+  short_description: "Monochrome Halftone Journal"
+  default_prompt: "Use $xxd-panel-122 to transform my photograph using the complete canonical source brief."
