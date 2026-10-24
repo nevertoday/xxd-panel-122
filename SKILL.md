@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-122
-description: "Create XXD Panel 122 raster artwork from photographs using monochrome halftone, dithering and stippling with optional fine red handwriting, vintage print grain and exceptionally abundant whitespace. Use when the user invokes xxd-panel-122 or requests this style. Supports individual images, isolated directory batches, strict 50:50 comparisons, design-only outputs, and wallpapers."
+description: "XXD Panel 122｜Monochrome Halftone Journal: pulls the most recognisable subject, outline or pose out of a photo and reprints it as a low-contrast black, grey and charcoal halftone image built from fine dots, dithering and stippling with a light old-print grain, set small and off-centre in very large whitespace, with one thin red line or a few red handwritten words as the only colour accent. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-122 or asks for monochrome halftone, dithering or stippled zine-style illustration with handwritten notes from a photo."
 ---
 
 # XXD Panel 122

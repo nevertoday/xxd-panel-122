@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 122｜Monochrome Halftone Journal: pulls the most recognisable subject, outline or pose out of a photo and reprints it as a low-contrast black, grey and charcoal halftone image built from fine dots, dithering and stippling with a light old-print grain, set small and off-centre in very large whitespace, with one thin red line or a few red handwritten words as the only colour accent. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-122 or asks for monochrome halftone, dithering or stippled zine-style illustration with handwritten notes from a photo.",
+  "short_description": "单色网点手写志：把照片主体印成黑灰网点小图，配一抹红色手写和大片留白",
+  "zh-CN": {
+    "name": "单色网点手写志",
+    "tagline": "把照片的主体变成黑灰网点印出来的小图，旁边只留一行红色手写。",
+    "look": "照片里最好认的主体、轮廓或姿态被单独提出来，用黑、灰、炭黑的细密网点和点阵颗粒重新印一遍，像旧杂志或独立小志里的半色调插图，而不是素描。主体只占一小块，可以偏到一边、贴边或被裁掉一截，背景大多删掉，其余是大片留白。整体对比很低，唯一的颜色是一条红色细线或几个红色手写字；文字只有几个随手写下的词或短句。",
+    "traits": [
+      "单色网点",
+      "点描颗粒",
+      "低对比灰黑",
+      "一抹红色手写",
+      "超大留白"
+    ],
+    "good": [
+      "轮廓清楚的单个主体：一个人的侧影、一只鸟、一把椅子、一只杯子",
+      "有姿态的瞬间：伸懒腰的猫、骑车的人、走远的背影",
+      "构图普通、背景杂乱，但有一个记忆点的生活照，背景会被大胆删掉"
+    ],
+    "poor": [
+      "颜色就是看点的照片：花海、彩色街景、一桌菜，结果只剩黑灰",
+      "需要保留完整场景和每个人的合影、全家福、产品图",
+      "想要满版、彩色写实、卡通或 3D 效果的海报"
+    ]
+  },
+  "en": {
+    "name": "Monochrome Halftone Journal",
+    "tagline": "Turns the subject of your photo into a small black-and-grey halftone print with a single line of red handwriting.",
+    "look": "The most recognisable subject, outline or pose is lifted out of the photo and reprinted in fine black, grey and charcoal dots and dither grain, like a halftone picture in an old magazine or zine rather than a pencil sketch. The subject takes up only a small area, often off-centre, touching an edge or cropped, with most of the background removed and the rest left as wide empty space. Contrast stays low; the only colour is one thin red line or a few red handwritten words, and the text is just a word or short phrase jotted down by hand.",
+    "traits": [
+      "Monochrome halftone",
+      "Stipple grain",
+      "Low-contrast greys",
+      "A touch of red handwriting",
+      "Vast whitespace"
+    ],
+    "good": [
+      "A single subject with a clear outline: a person in profile, a bird, a chair, a cup",
+      "A moment with a distinct pose: a cat stretching, someone on a bike, a figure walking away",
+      "Ordinary snapshots with a messy background but one memorable element; the background gets cut away"
+    ],
+    "poor": [
+      "Photos where colour is the point, such as flower fields, colourful streets or a table of food, since only black and grey remain",
+      "Group shots, family photos or product shots that must keep the whole scene",
+      "Requests for a full-bleed, colourful realistic, cartoon or 3D poster"
+    ]
+  },
+  "ja": {
+    "name": "単色網点と手書きの余白",
+    "tagline": "写真の主役を黒とグレーの網点で刷った小さな絵にし、赤い手書きを一行だけ添えます。",
+    "look": "写真でいちばん印象的な主役や輪郭、ポーズだけを取り出し、黒、グレー、チャコールの細かな網点と点描の粒で刷り直します。素描ではなく、古い雑誌やジンに載っているハーフトーンの図版のような見た目です。主役は小さく、片側に寄せたり端に付けたり一部を切ったりし、背景はほとんど消して大きな余白を残します。コントラストは低く、色は赤い細線か赤い手書き文字だけ。文字はさらっと書いた単語か短い一言です。",
+    "traits": [
+      "単色の網点",
+      "点描の粒",
+      "低コントラストの黒灰",
+      "ひとすじの赤い手書き",
+      "大きな余白"
+    ],
+    "good": [
+      "輪郭がはっきりした一つの主役：横顔の人物、鳥、椅子、カップ",
+      "ポーズに特徴がある瞬間：伸びをする猫、自転車に乗る人、遠ざかる後ろ姿",
+      "構図が平凡で背景がごちゃついていても、印象的な一点がある日常写真（背景は大胆に削ります）"
+    ],
+    "poor": [
+      "色そのものが見どころの写真：花畑、カラフルな街並み、料理の並ぶ食卓（黒とグレーだけになります）",
+      "場面全体や全員を残したい集合写真、家族写真、商品写真",
+      "全面を埋めたポスターや、カラーの写実、アニメ調、3D の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "단색 하프톤 손글씨",
+    "tagline": "사진의 주인공을 검정·회색 망점으로 찍어 낸 작은 그림으로 바꾸고 빨간 손글씨 한 줄만 남깁니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공이나 윤곽, 자세만 골라 검정, 회색, 숯빛의 촘촘한 망점과 점묘 입자로 다시 찍어 냅니다. 소묘가 아니라 오래된 잡지나 진(zine)에 실린 하프톤 그림 같은 모습입니다. 주인공은 작게, 한쪽으로 치우치거나 가장자리에 붙거나 일부가 잘리고, 배경은 대부분 지워 넓은 여백으로 남습니다. 대비는 낮고 색은 빨간 가는 선이나 빨간 손글씨 몇 글자뿐이며, 글은 무심히 적은 단어나 짧은 문장 정도입니다.",
+    "traits": [
+      "단색 망점",
+      "점묘 입자",
+      "낮은 대비의 회흑",
+      "빨간 손글씨 한 점",
+      "넓은 여백"
+    ],
+    "good": [
+      "윤곽이 분명한 하나의 주인공: 옆모습의 사람, 새, 의자, 컵",
+      "자세가 뚜렷한 순간: 기지개 켜는 고양이, 자전거 타는 사람, 멀어지는 뒷모습",
+      "구도가 평범하고 배경이 어수선해도 기억할 만한 한 가지가 있는 일상 사진(배경은 과감히 지웁니다)"
+    ],
+    "poor": [
+      "색 자체가 볼거리인 사진: 꽃밭, 알록달록한 거리, 음식이 차려진 식탁(검정과 회색만 남습니다)",
+      "장면 전체와 모든 사람을 살려야 하는 단체 사진, 가족사진, 제품 사진",
+      "화면을 꽉 채운 포스터나 컬러 사실화, 만화풍, 3D 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الهافتون الأحادي",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى طبعة صغيرة بنقاط سوداء ورمادية مع سطر واحد بخط يد أحمر.",
+    "look": "يُستخرج أوضح عنصر أو خط خارجي أو وضعية من الصورة ويُطبع من جديد بنقاط دقيقة وحبيبات منقّطة بالأسود والرمادي والفحمي، فيبدو كصورة هافتون في مجلة قديمة أو كرّاسة مستقلة لا كرسم بالقلم. يشغل العنصر مساحة صغيرة، وغالباً ما يُزاح إلى جانب أو يلامس الحافة أو يُقتطع جزء منه، وتُحذف معظم الخلفية ويبقى الباقي فراغاً واسعاً. التباين منخفض، واللون الوحيد خط أحمر رفيع أو كلمات قليلة بخط يد أحمر، والنص كلمة أو عبارة قصيرة مكتوبة على عجل.",
+    "traits": [
+      "هافتون أحادي اللون",
+      "حبيبات منقّطة",
+      "رماديات منخفضة التباين",
+      "لمسة خط يد أحمر",
+      "فراغ واسع جداً"
+    ],
+    "good": [
+      "عنصر واحد بخط خارجي واضح: شخص من الجانب، طائر، كرسي، فنجان",
+      "لحظة بوضعية مميزة: قطة تتمطّى، شخص على دراجة، ظهر شخص يبتعد",
+      "صور يومية عادية بخلفية مزدحمة لكن فيها عنصر واحد لافت، إذ تُحذف الخلفية بجرأة"
+    ],
+    "poor": [
+      "صور يكون اللون فيها هو الأساس، كحقول الزهور أو الشوارع الملوّنة أو مائدة طعام، لأن النتيجة أسود ورمادي فقط",
+      "صور جماعية أو عائلية أو صور منتجات يجب أن يبقى فيها المشهد كاملاً",
+      "طلب ملصق ممتلئ بالكامل أو رسم واقعي ملوّن أو كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
